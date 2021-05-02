@@ -135,7 +135,6 @@ main{
     font-weight: normal;
     font-size: 36px;
     line-height: 42px;
-    text-align: center;
     color: #FFFFFF;
 }
 
@@ -146,7 +145,6 @@ main{
     font-weight: 300;
     font-size: 16px;
     line-height: 19px;
-    text-align: center;
     color: rgba(255, 255, 255, 0.8);
 }
 
@@ -191,6 +189,5 @@ main{
     font-weight: normal;
     font-size: 12px;
     line-height: 16px;
-    text-align: center;
     color: rgba(255, 255, 255, 0.5);
 }
